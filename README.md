@@ -19,7 +19,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 	
-- 🎓 I have a **Diploma** in Computer Science and Mathematics. Obtained from the Deemed to be University Dodoma, Tanzania.
+- 🎓 I have a **Diploma** in Computer Science and Mathematics. Obtained from  University of Dodoma, Tanzania.
 
 - 👩‍💻 I’m currently a freelancher working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
 
