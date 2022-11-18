@@ -6,8 +6,6 @@
 [![wakatime](https://wakatime.com/badge/user/3fec9939-846d-481f-8d92-4c8ad422ac77.svg)](https://wakatime.com/@3fec9939-846d-481f-8d92-4c8ad422ac77)
 
 
-<!-- <img src="https://badges.pufler.dev/visits/bhskr44/bhskr44?color=3f37c9"> -->
-
 
 </div>
 
