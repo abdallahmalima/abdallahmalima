@@ -13,21 +13,21 @@
 
 
 <h1 align="center"> Hi there👋, I'm Abdallah</h1>
-<h3 align="center">A computer scientist and a software developer from Tanzania</h3>
+<h3 align="center">A software developer from Tanzania</h3>
 
-<p align="center">I am a Full-Stack Developer. I have a great passion for bulding softwares, learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
+<p align="center">I am a Full-Stack Developer. I have a great passion for bulding softwares,  business problems problem using  efficient algorithms,learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with HTML,CSS,Javascript,React,Redux,Ruby,Rails,PHP and Laravel</p>
 
 <img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 	
-- 🎓 I have a **Bachelor's degree** in Computer Science and Engineering. Obtained from the Deemed to be University NERIST, India.
+- 🎓 I have a **Diploma** in Computer Science and Mathematics. Obtained from the Deemed to be University Dodoma, Tanzania.
 
 - 👩‍💻 I’m currently a freelancher working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
 
-- 🌱 I’m currently working on a project where you would be able to find and post properties for rent.
+- 🌱 I’m currently working on a mobile application project where you would be able to keep track of rent house payments.
 
-- 💻 All **my projects** are available [here.](https://github.com/bhskr44?tab=repositories)
+- 💻 All **my projects** are available [here.](https://github.com/abdallahmalima?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://bhskr44.github.io/)
+### 🚀 Check out [my portfolio.](https://abdallahmalima.github.io/portfolio_mobile_first/)
 
 ### 📫 Reach me on:
 
@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/bhskr44/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 </p>
 
-- ✨ Interests: coding, learning new frameworks, cooking.
+- ✨ Interests: coding, learning new frameworks, solving coding challenges.
 
 - 👦 Pronouns: he/him
 
