@@ -19,7 +19,7 @@
 	
 - 🎓 I have a **Diploma** in Computer Science and Mathematics. Obtained from  University of Dodoma, Tanzania.
 
-- 👩‍💻 I’m currently a freelancher working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
+- 👩‍💻 I’m currently a Freelancer working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
 
 - 🌱 I’m currently working on a mobile application project where you would be able to keep track of rent house payments.
 
