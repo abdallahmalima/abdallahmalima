@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhskr44&color=3f37c9">
+  <img src="https://komarev.com/ghpvc/?username=abdallahmalima&color=3f37c9">
 
 	
 [![wakatime](https://wakatime.com/badge/user/3fec9939-846d-481f-8d92-4c8ad422ac77.svg)](https://wakatime.com/@3fec9939-846d-481f-8d92-4c8ad422ac77)
@@ -63,8 +63,8 @@
 <h2 align ="left">GitHub Stats</h2>
 <div>
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdallahmalima&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhskr44&show_icons=true&theme=nightowl&layout=compact"/>
-<img height="180" width="420"src="https://github-readme-streak-stats.herokuapp.com/?user=bhskr44&show_icons=true&theme=nightowl&layout=compact" alt="sekoviper" />
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahmalima&show_icons=true&theme=nightowl&layout=compact"/>
+<img height="180" width="420"src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahmalima&show_icons=true&theme=nightowl&layout=compact" alt="sekoviper" />
 
 </div>
 
@@ -74,4 +74,6 @@
 
 
 
-[![bhaskar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhskr44&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![bhaskar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=
+
+&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
