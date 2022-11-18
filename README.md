@@ -30,7 +30,7 @@
 ### 📫 Reach me on:
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/bhskr44" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/Softmal1" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/bhskr44/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 </p>
 
