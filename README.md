@@ -16,8 +16,6 @@
 <p align="center">I am a Full-Stack Developer. I have a great passion for bulding softwares, solve business problems using  efficient algorithms,learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with HTML,CSS,JavaScript,React,Redux,Ruby,Rails,PHP and Laravel</p>
 
 <img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
-	
-- 🎓 I have a **Diploma** in Computer Science and Mathematics. Obtained from  University of Dodoma, Tanzania.
 
 - 👩‍💻 I’m currently a Freelancer working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
 
