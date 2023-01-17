@@ -23,7 +23,7 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/abdallahmalima?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://abdallahmalima.github.io/portfolio_mobile_first/)
+### 🚀 Check out [my portfolio.](https://abdallahmalima.github.io/Portfolio)
 
 ### 📫 Reach me on:
 
