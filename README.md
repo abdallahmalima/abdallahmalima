@@ -17,9 +17,9 @@
 
 <img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 
-- 👩‍💻 I’m currently a Freelancer working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
+- 👩‍💻 I am currently a Freelancer, working remotely in collaboration with individuals from different countries, creating a multicultural environment.
 
-- 🌱 I’m currently working on a mobile application project where you would be able to keep track of rent house payments.
+- 🌱 I am currently working on a mobile application project that aims to help users keep track of their rent house payments.
 
 - 💻 All **my projects** are available [here.](https://github.com/abdallahmalima?tab=repositories)
 
@@ -32,7 +32,7 @@
 <a href="https://www.linkedin.com/in/abdallah-malima-antony/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 </p>
 
-- ✨ Interests: coding, learning new frameworks, solving coding challenges.
+- ✨ Interests: Coding, learning new frameworks, and solving coding challenges.
 
 - 👦 Pronouns: he/him
 
