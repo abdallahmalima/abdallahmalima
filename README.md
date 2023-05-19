@@ -57,7 +57,6 @@
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/ruby.svg" alt="ruby" title="ruby" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="react" title="react" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/rails.svg" alt="rails" title="rails" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="laravel" title="laravel" />
 
 </div>
 
