@@ -53,6 +53,11 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
 <img height="40" src="./images/aws-icon.svg" style="background:white;padding:10px;border-radius:10px;" alt="AWS" title="AWS" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="php" title="php" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/ruby.svg" alt="ruby" title="ruby" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="react" title="react" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/rails.svg" alt="rails" title="rails" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" alt="laravel" title="laravel" />
 
 </div>
 
